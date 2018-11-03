@@ -1,0 +1,33 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="15dp"
+        android:paddingEnd="15dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingStart="15dp">
+
+        <TextView
+            android:id="@+id/textActivitySettings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/pink_white_bottom_borders"
+            android:text="Activity Settings"
+            android:textColor="@color/black1"
+            android:textSize="35sp" />
+
+        <ListView
+            android:id="@+id/listViewActivitySettings"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/textActivitySettings">
+
+        </ListView>
+
+    </RelativeLayout>
+
+</merge>

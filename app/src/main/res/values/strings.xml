@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Pandog</string>
+    <string name="edit_profile_fragment">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="profile_fragment">Profile</string>
+
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_accountsettings">user_accountsettings</string>
+    <string name="sign_out_event">Are you sure you want to sign out?</string>
+    <string name="field_username">username</string>
+    <string name="field_email">email</string>
+    <string name="field_display_name">display_name</string>
+    <string name="field_description">description</string>
+    <string name="field_phone_number">phone_number</string>
+
+    <string name="confirm_password_dialog">ConfirmPasswordDialog</string>
+
+    <string name="gallery">GALLERY</string>
+    <string name="photo">PHOTO</string>
+
+
+    <!-- Intent Extra -->
+    <string name="calling_activity">calling_activity</string>
+
+    <!-- Activity names -->
+    <string name="profile_activity">Profile Activity</string>
+    <string name="string_next">Next</string>
+    <string name="selected_image">selected_image</string>
+    <string name="string_share">Share</string>
+    <string name="dbname_user_photos">user_photos</string>
+    <string name="dbname_photos">photos</string>
+    <string name="new_photo">new_photo</string>
+    <string name="profile_photo">profile_photo</string>
+    <string name="return_to_fragment">return_to_fragment</string>
+    <string name="auth_failed">Authorization Failed</string>
+
+
+</resources>

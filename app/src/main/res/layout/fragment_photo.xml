@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/btnCamera"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:text="Click anywhere to open the camera"
+        android:textSize="30sp"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        android:textColorHighlight="@color/black"
+        />
+
+</RelativeLayout>

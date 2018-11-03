@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "47960038409",
+    "firebase_url": "https://pandog-3f8bf.firebaseio.com",
+    "project_id": "pandog-3f8bf",
+    "storage_bucket": "pandog-3f8bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47960038409:android:44064806a47807b5",
+        "android_client_info": {
+          "package_name": "com.example.toseefkhan.pandog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47960038409-2uarakftokprlr77cias8uimj8fs89pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toseefkhan.pandog",
+            "certificate_hash": "8690a29e8d9021ad8e8452a5fe00d629ddc51fa6"
+          }
+        },
+        {
+          "client_id": "47960038409-2nbalohtc7ov4s7fif2ulub0c8h4rjnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbJhyMd8WLjZ9NGDISlgO8qB3Vvh1pJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47960038409-2nbalohtc7ov4s7fif2ulub0c8h4rjnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
